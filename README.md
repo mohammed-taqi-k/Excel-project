@@ -289,9 +289,7 @@ ecommerce-churn-analysis/
 
 ## 👤 Author Information
 
-| Field | Details |
-|-------|---------|
-| **Name** | *Mohammed Taqi* |
+*Mohammed Taqi* 
 
 
 > ⭐ If you found this project helpful, consider giving it a star on GitHub!
